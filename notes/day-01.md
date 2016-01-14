@@ -3,6 +3,7 @@
 * Sidebar Enhancements
 * Markdown Editting
 * Markdown Preview
+* Bootstrap 3 Snippets
 
 [Cool free typing program][https://typing.io/]
 
